@@ -1,0 +1,19 @@
+[
+    {
+        "user": "Eric",
+        "date": "2025-11-26",
+        "exercises": [
+            {
+                "name": "bench_press",
+                "sets": [
+                    {"weight": {"quantity": 45, "unit": "lb"}, "reps": 10},
+                    {"weight": {"quantity": 95, "unit": "lb"}, "reps": 10},
+                    {"weight": {"quantity": 135, "unit": "lb"}, "reps": 6},
+                    {"weight": {"quantity": 185, "unit": "lb"}, "reps": 5},
+                    {"weight": {"quantity": 205, "unit": "lb"}, "reps": 3},
+                    {"weight": {"quantity": 225, "unit": "lb"}, "reps": 1}
+                ]
+            }
+        ]
+    }
+]
